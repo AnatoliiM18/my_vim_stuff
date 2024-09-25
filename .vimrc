@@ -1,7 +1,8 @@
-" My vimrc file
+" My Vim settings 
+
+colorscheme quiet
 
 set number
-colorscheme quiet
 
 set tabstop=4
 set shiftwidth=4
@@ -12,6 +13,8 @@ set list
 
 set smartindent
 set ruler
+
 set noundofile
 set nobackup
+
 nnoremap <C-l> :nohlsearch<CR><C-l>
