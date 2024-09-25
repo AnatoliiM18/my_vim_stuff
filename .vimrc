@@ -1,5 +1,6 @@
 " My Vim settings 
 
+syntax on
 colorscheme quiet
 
 set number
@@ -16,5 +17,7 @@ set ruler
 
 set noundofile
 set nobackup
+
+set incsearch
 
 nnoremap <C-l> :nohlsearch<CR><C-l>
