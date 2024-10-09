@@ -20,4 +20,8 @@ set nobackup
 
 set incsearch
 
+" show cmd
+set sc
+
+" disable highlighting text after search <Ctrl+L>
 nnoremap <C-l> :nohlsearch<CR><C-l>
