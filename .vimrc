@@ -1,8 +1,8 @@
 " My Vim settings 
 
-syntax on
 set background=dark
 colorscheme quiet
+syntax on
 
 set number
 
