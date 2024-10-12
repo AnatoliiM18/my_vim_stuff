@@ -1,6 +1,7 @@
 " My Vim settings 
 
 syntax on
+set background=dark
 colorscheme quiet
 
 set number
