@@ -26,3 +26,8 @@ set sc
 
 " disable highlighting text after search <Ctrl+L>
 nnoremap <C-l> :nohlsearch<CR><C-l>
+
+" set UTF-8
+set encoding=utf-8
+set fileencoding=utf-8
+
